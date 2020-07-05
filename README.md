@@ -1,2 +1,2 @@
-# hello-world-
-beginner
+print("hari")
+print("krishna")
